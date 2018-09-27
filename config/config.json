@@ -1,0 +1,21 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/jqCalendarWebPart/JqCalendarWebPartWebPart.js",
+      "manifest": "./src/webparts/jqCalendarWebPart/JqCalendarWebPartWebPart.manifest.json",
+      "outputPath": "./dist/jq-calendar-web-part-web-part.js"
+    }
+  ],
+  "externals": {
+    "jquery": "https://code.jquery.com/jquery-2.2.4.min.js",
+   "moment": "https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.10.6/moment.min.js",
+   "fullcalendar": "https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.9.0/fullcalendar.min.js",
+   "bootstrap":"node_modules/bootstrap/dist/js/bootstrap.min.js"
+ 
+   
+   
+  },
+  "localizedResources": {
+    "JqCalendarWebPartWebPartStrings": "webparts/jqCalendarWebPart/loc/{locale}.js"
+  }
+}

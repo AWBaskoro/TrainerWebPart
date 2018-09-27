@@ -1,0 +1,11 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "isCreatingSolution": true,
+    "environment": "onprem",
+    "version": "1.6.0",
+    "libraryName": "jq-full-calendar-sln",
+    "libraryId": "39a56efe-87d1-4572-978b-ff60118f729c",
+    "packageManager": "npm",
+    "componentType": "webpart"
+  }
+}

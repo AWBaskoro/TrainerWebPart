@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "jq-full-calendar-sln-client-side-solution",
+    "id": "39a56efe-87d1-4572-978b-ff60118f729c",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/jq-full-calendar-sln.sppkg"
+  }
+}
